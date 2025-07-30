@@ -1,0 +1,48 @@
+{
+  "name": "give-em-hell",
+  "version": "0.0.1",
+  "description": "Give 'Em Hell: Find and count em dashes, en dashes, and hyphens in your codebase",
+  "main": "index.js",
+  "bin": {
+    "give-em-hell": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "echo 'No linting configured yet'"
+  },
+  "keywords": [
+    "typography",
+    "dash",
+    "em-dash",
+    "en-dash",
+    "hyphen",
+    "unicode",
+    "cli",
+    "linter",
+    "code-style",
+    "code-quality",
+    "static-analysis",
+    "developer-tools"
+  ],
+  "author": "mlot.ai",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/incrediblecrab/give-em-hell.git"
+  },
+  "bugs": {
+    "url": "https://github.com/incrediblecrab/give-em-hell/issues"
+  },
+  "homepage": "https://github.com/incrediblecrab/give-em-hell#readme",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "files": [
+    "index.js",
+    "README.md",
+    "LICENSE"
+  ],
+  "dependencies": {
+    "commander": "^11.1.0"
+  }
+}
