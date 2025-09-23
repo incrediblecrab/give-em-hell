@@ -1,6 +1,6 @@
 {
   "name": "give-em-hell",
-  "version": "0.0.2",
+  "version": "1.5.0",
   "description": "Give 'Em Hell: Find and count em dashes, en dashes, and hyphens in your codebase",
   "main": "index.js",
   "bin": {
@@ -24,7 +24,10 @@
     "static-analysis",
     "developer-tools"
   ],
-  "author": "mlot.ai",
+  "author": {
+    "name": "Max Marquardt",
+    "url": "https://mlot.ai"
+  },
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -33,7 +36,7 @@
   "bugs": {
     "url": "https://github.com/incrediblecrab/give-em-hell/issues"
   },
-  "homepage": "https://github.com/incrediblecrab/give-em-hell#readme",
+  "homepage": "https://mlot.ai/",
   "engines": {
     "node": ">=14.0.0"
   },

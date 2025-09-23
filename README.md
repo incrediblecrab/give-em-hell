@@ -1,6 +1,11 @@
 # Give 'Em Hell 🔥
 
+![npm version](https://img.shields.io/npm/v/give-em-hell)
+![MLoT](https://img.shields.io/badge/MLoT-ai-blue)
+
 Find and count em dashes (—), en dashes (–), and hyphens (-) in your codebase.
+
+![Demo](https://raw.githubusercontent.com/incrediblecrab/Packages-and-Extensions-Media/main/give-em-hell.gif)
 
 ## Installation
 
@@ -83,6 +88,18 @@ Typography matters! This tool helps you:
 ## License
 
 MIT © mlot.ai
+
+## Resources
+
+- 📺 [Watch Demo Video](https://youtu.be/JhQnjArz95I)
+- 🌐 [Visit MLoT Page](https://mlot.ai/give-em-hell/)
+- 📦 [View on GitHub](https://github.com/incrediblecrab/give-em-hell)
+- 🔒 [Privacy Policy](https://mlot.ai/privacy)
+
+## Publisher
+
+**Max's Lab of Things**
+Visit [mlot.ai](https://mlot.ai/)
 
 ## Contributing
 
