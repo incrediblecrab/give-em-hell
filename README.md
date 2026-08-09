@@ -85,15 +85,10 @@ Typography matters! This tool helps you:
 - Audit documentation and comments for proper dash usage
 - Have fun with typography statistics
 
-## License
-
-MIT © mlot.ai
-
 ## Resources
 
 - 📺 [Watch Demo Video](https://youtu.be/JhQnjArz95I)
 - 🌐 [Visit MLoT Page](https://mlot.ai/give-em-hell/)
-- 📦 [View on GitHub](https://github.com/incrediblecrab/give-em-hell)
 - 🔒 [Privacy Policy](https://mlot.ai/privacy)
 
 ## Publisher
@@ -101,6 +96,6 @@ MIT © mlot.ai
 **Max's Lab of Things**
 Visit [mlot.ai](https://mlot.ai/)
 
-## Contributing
+## License
 
-Issues and PRs welcome at [github.com/incrediblecrab/give-em-hell](https://github.com/incrediblecrab/give-em-hell)
+MIT

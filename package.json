@@ -1,6 +1,6 @@
 {
   "name": "give-em-hell",
-  "version": "1.5.0",
+  "version": "1.5.1",
   "description": "Give 'Em Hell: Find and count em dashes, en dashes, and hyphens in your codebase",
   "main": "index.js",
   "bin": {
