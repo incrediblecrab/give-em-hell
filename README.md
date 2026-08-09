@@ -5,7 +5,7 @@
 
 Find and count em dashes (—), en dashes (–), and hyphens (-) in your codebase.
 
-![Demo](https://raw.githubusercontent.com/incrediblecrab/Packages-and-Extensions-Media/main/give-em-hell.gif)
+![Demo](https://raw.githubusercontent.com/incrediblecrab/Packages-and-Extensions-Media/main/gifs/give-em-hell.gif)
 
 ## Installation
 
