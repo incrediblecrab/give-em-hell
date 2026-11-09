@@ -7,7 +7,7 @@ give-em-hell is a Node.js CLI that counts em dashes, en dashes and hyphens acros
 ## Commands
 
 ```bash
-npm install
+pnpm install
 node index.js . --no-progress     # run the checked-out copy
 node index.js --help
 ```

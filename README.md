@@ -78,7 +78,7 @@ Time taken: 2.34s
 ## Development
 
 ```bash
-npm install
+pnpm install
 npm run lint
 ```
 
